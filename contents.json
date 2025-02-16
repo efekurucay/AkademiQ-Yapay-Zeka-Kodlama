@@ -1,12 +1,12 @@
 {
   "2-gun": {
-    "title": "2. Gün - Değişkenler ve Operatörler",
-    "content": "# 2. Gün - Değişkenler ve Operatörler\n\n## Genel Bakış\nBu derste Python'da değişkenler ve operatörler konusunu işleyeceğiz.\n\n### Ödevler\n1. Python kurulumunu tamamlayın\n2. Temel değişken tanımlamalarını yapın\n3. Operatörleri kullanarak hesaplamalar yapın\n\n### Kaynaklar\n- [Python Kurulum Rehberi](url1)\n- [Değişkenler Dokümantasyonu](url2)\n- [Operatörler Cheat Sheet](url3)\n\n### Önemli Notlar\n- Ödevleri zamanında tamamlamayı unutmayın\n- Sorularınız için forum kısmını kullanabilirsiniz",
+    "title": "2. GÃ¼n - DeÄiÅkenler ve OperatÃ¶rler",
+    "content": "# 2. GÃ¼n - DeÄiÅkenler ve OperatÃ¶rler\n\n## Genel BakÄ±Å\nBu derste Python'da deÄiÅkenler ve operatÃ¶rler konusunu iÅleyeceÄiz.\n\n### Ãdevler\n1. Python kurulumunu tamamlayÄ±n\n2. Temel deÄiÅken tanÄ±mlamalarÄ±nÄ± yapÄ±n\n3. OperatÃ¶rleri kullanarak hesaplamalar yapÄ±n\n\n### Kaynaklar\n- [Python Kurulum Rehberi](url1)\n- [DeÄiÅkenler DokÃ¼mantasyonu](url2)\n- [OperatÃ¶rler Cheat Sheet](url3)\n\n### Ãnemli Notlar\n- Ãdevleri zamanÄ±nda tamamlamayÄ± unutmayÄ±n\n- SorularÄ±nÄ±z iÃ§in forum kÄ±smÄ±nÄ± kullanabilirsiniz",
     "feedbacks": []
   },
   "content-1739744651251": {
-    "title": "Yeni İçerik 1 ",
-    "content": "# Yeni İçerik 1 \n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
+    "title": "Yeni Ä°Ã§erik 1 ",
+    "content": "# Yeni Ä°Ã§erik 1 \n\n## Alt BaÅlÄ±k\n\nÄ°Ã§eriÄinizi buraya yazÄ±n...\n\n### Ãdevler\n1. Ä°lk Ã¶dev\n2. Ä°kinci Ã¶dev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
     "feedbacks": [
       {
         "content": "dene",
@@ -17,8 +17,8 @@
     ]
   },
   "content-1739744655850": {
-    "title": "Yeni İçerik 2",
-    "content": "# Yeni İçerik 2\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
+    "title": "Yeni Ä°Ã§erik 2",
+    "content": "# Yeni Ä°Ã§erik 2\n\n## Alt BaÅlÄ±k\n\nÄ°Ã§eriÄinizi buraya yazÄ±n...\n\n### Ãdevler\n1. Ä°lk Ã¶dev\n2. Ä°kinci Ã¶dev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
     "feedbacks": [
       {
         "content": "sds",
@@ -30,7 +30,12 @@
   },
   "content-1739745450522": {
     "title": "Yeni sadsadsa",
-    "content": "# Yeni sadsadsa\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
+    "content": "# Yeni sadsadsa\n\n## Alt BaÅlÄ±k\n\nÄ°Ã§eriÄinizi buraya yazÄ±n...\n\n### Ãdevler\n1. Ä°lk Ã¶dev\n2. Ä°kinci Ã¶dev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
+    "feedbacks": []
+  },
+  "content-1739745583170": {
+    "title": "Yeni İçerikasdsa",
+    "content": "# Yeni İçerikasdsa\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
     "feedbacks": []
   }
 }
