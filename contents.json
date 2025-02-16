@@ -1,41 +1,24 @@
 {
-  "2-gun": {
-    "title": "2. GÃ¼n - DeÄiÅkenler ve OperatÃ¶rler",
-    "content": "# 2. GÃ¼n - DeÄiÅkenler ve OperatÃ¶rler\n\n## Genel BakÄ±Å\nBu derste Python'da deÄiÅkenler ve operatÃ¶rler konusunu iÅleyeceÄiz.\n\n### Ãdevler\n1. Python kurulumunu tamamlayÄ±n\n2. Temel deÄiÅken tanÄ±mlamalarÄ±nÄ± yapÄ±n\n3. OperatÃ¶rleri kullanarak hesaplamalar yapÄ±n\n\n### Kaynaklar\n- [Python Kurulum Rehberi](url1)\n- [DeÄiÅkenler DokÃ¼mantasyonu](url2)\n- [OperatÃ¶rler Cheat Sheet](url3)\n\n### Ãnemli Notlar\n- Ãdevleri zamanÄ±nda tamamlamayÄ± unutmayÄ±n\n- SorularÄ±nÄ±z iÃ§in forum kÄ±smÄ±nÄ± kullanabilirsiniz",
+  "content-1739743799500": {
+    "title": "Yeni İçerik232",
+    "content": "# Yeni İçerik232\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
     "feedbacks": []
   },
-  "content-1739744651251": {
-    "title": "Yeni Ä°Ã§erik 1 ",
-    "content": "# Yeni Ä°Ã§erik 1 \n\n## Alt BaÅlÄ±k\n\nÄ°Ã§eriÄinizi buraya yazÄ±n...\n\n### Ãdevler\n1. Ä°lk Ã¶dev\n2. Ä°kinci Ã¶dev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
+  "content-1739745065050": {
+    "title": "Yeni İçerik 2324",
+    "content": "# Yeni İçerik 2324\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
     "feedbacks": [
       {
-        "content": "dene",
-        "author": "1",
-        "type": "general",
-        "date": "2025-02-16T22:24:24.275Z"
-      }
-    ]
-  },
-  "content-1739744655850": {
-    "title": "Yeni Ä°Ã§erik 2",
-    "content": "# Yeni Ä°Ã§erik 2\n\n## Alt BaÅlÄ±k\n\nÄ°Ã§eriÄinizi buraya yazÄ±n...\n\n### Ãdevler\n1. Ä°lk Ã¶dev\n2. Ä°kinci Ã¶dev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
-    "feedbacks": [
-      {
-        "content": "sds",
-        "author": "sds",
+        "content": "sadasdsa",
+        "author": "sadas",
         "type": "improvement",
-        "date": "2025-02-16T22:24:28.443Z"
+        "date": "2025-02-16T22:31:16.354Z"
       }
     ]
   },
-  "content-1739745450522": {
-    "title": "Yeni sadsadsa",
-    "content": "# Yeni sadsadsa\n\n## Alt BaÅlÄ±k\n\nÄ°Ã§eriÄinizi buraya yazÄ±n...\n\n### Ãdevler\n1. Ä°lk Ã¶dev\n2. Ä°kinci Ã¶dev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
-    "feedbacks": []
-  },
-  "content-1739745583170": {
-    "title": "Yeni İçerikasdsa",
-    "content": "# Yeni İçerikasdsa\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
+  "content-1739745441850": {
+    "title": "Yeni İçerik",
+    "content": "# Yeni İçerik\n\n## Alt Başlık\n\nİçeriğinizi buraya yazın...\n\n### Ödevler\n1. İlk ödev\n2. İkinci ödev\n\n### Kaynaklar\n- [Kaynak 1](url1)\n- [Kaynak 2](url2)",
     "feedbacks": []
   }
 }
