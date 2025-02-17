@@ -1,0 +1,2 @@
+# AkademiQ-Yapay-Zeka-Kodlama
+ 
