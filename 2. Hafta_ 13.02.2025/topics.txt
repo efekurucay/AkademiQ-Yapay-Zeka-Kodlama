@@ -1,0 +1,26 @@
+Bugün sizlerle birlikte aşağıdaki konuları işledik:
+ * Değişkenler
+ * Aritmetik Operatörler
+ * Atama Operatörleri
+ * Mantıksal Operatörler
+ * Stringler ve String Metotları
+Ödeviniz
+Sizlerden, bugün işlediğimiz konuları araştırmanızı ve her biri için ayrı ayrı birer Medium makalesi yazmanızı istiyorum.
+
+Ek Araştırma
+Bugünkü konularda işlememize rağmen, sizden Üyelik Operatörleri ve Kimlik Operatörleri konularını da araştırmanızı ve bu operatörlerin ne işe yaradıklarını öğrenmenizi rica ediyorum.
+
+Neden Bu Araştırmayı Yapıyoruz?
+Yazılımda ilerledikçe, birçok yapıyı, konuyu ve hatta kullandığınız framework veya kütüphanelerdeki metotların nasıl çalıştığını her zaman bilemeyebilirsiniz. Bu gayet doğal bir durumdur. İlerleyen aşamalarda bu tür durumlara hazırlıklı olmak adına, araştırma ve kendi kendimize öğrenme yeteneğimizi geliştirmemiz gerekiyor. Bu operatörleri sizler araştıracaksınız ve bu operatörlerle ilgili Medium makalesi yazmanızı istiyorum.
+
+Uygulama Ödevleri
+Yarın ise sisteme uygulama ödevlerinizi yükleyeceğim.
+
+Not
+Lütfen ödevlerinizi zamanında tamamlamaya özen gösterin.
+
+
+dosya yüklerken arkadaşlar .ipynb uzantısını sistem desteklemiyor .txt dosyasına ödevlerin çözümü olan github reponuzun linklerini koymanızı rica ediyorum
+Arkadaşlar ödevlerinizin Github limklerini ve Mediumda yayınlayacağınız makalelerin linklerini direkt bana linklerini atın
+.txt uzantılı dosyanızı PDF çevirip sisteme yükleyebilirsiniz
+İyi haftasobları 🙂 , Dosyaları Zip veya RAR olarak yüklebilirsiniz .
